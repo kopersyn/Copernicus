@@ -1,0 +1,2 @@
+# Copernicus
+astronomy discord bot
